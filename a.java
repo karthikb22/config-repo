@@ -2,7 +2,7 @@ import java.util.*;
 
 public static void main(String args[]) {
 
-
+ syste.out.println();
 }
 
 class a {
